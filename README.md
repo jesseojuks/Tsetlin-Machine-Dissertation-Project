@@ -3,7 +3,7 @@
 
 
 
-![ Visual Breakdown of our Project](project.png) 
+![ Visual Breakdown of our Project]( C:\Users\jesse\Downloads\project.png) 
 
 
 AIMS 
