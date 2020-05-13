@@ -2,9 +2,8 @@
  This project can be divided into two major emphasis: Firstly, investigates building an innovative tactic for optimum pattern recognition, using tsetlin automata (Tsetlin Machine). Secondly, compares and evaluates the Tsetlin Machine against the conventionally used Multilayer Neural Network with gradient backpropagation by applying both learning techniques on four benchmark machine learning application: each exposing typical obscurities in pattern recognition algorithms.
 
 
-Visual Breakdown of our Project
 
-
+![ Visual Breakdown of our Project](project.png) 
 
 
 AIMS 
